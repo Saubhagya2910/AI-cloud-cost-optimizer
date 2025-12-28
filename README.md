@@ -42,7 +42,7 @@ Cost analysis & recommendations → cost_optimization_report.json
 
 🔹 Setup
 1. Clone the repository
-   git clone https://github.com/Saubhagya2910/AI_CLOUD_COST_OPTIMIZER.git
+   git clone https://github.com/Saubhagya2910/AI-cloud-cost-optimizer.git
    cd AI_CLOUD_COST_OPTIMIZER
 
 2. Install dependencies
